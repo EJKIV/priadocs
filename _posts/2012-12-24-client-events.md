@@ -9,13 +9,15 @@ These events are collected in the web app and native applications.
 
 # Account Created
 
+---
+
 ## Devices
 
 **`iOS`**  **`Android`** 
 
 ## Purpose
 
-    Key event for initial user engagement
+> Key event for initial user engagement
 
 ## Properties
 
