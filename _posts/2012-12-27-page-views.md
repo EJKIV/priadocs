@@ -1,15 +1,21 @@
 ---
 category: Page Views
-path: '/stuff'
+path: '/page-views'
 title: 'Get stuff'
 type: 'GET'
 
 layout: nil
 ---
 
-This method allows users to retrieve stuff.
-
-### Request
+### Common Properties
+```
+    title: window.location.title
+    url: window.location.url
+    path: window.location.path
+    referrer: window.location.referrer
+    search: window.location.search
+    
+```
 
 * The headers must include a **valid authentication token**.
 
