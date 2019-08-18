@@ -15,10 +15,10 @@ This method allows the user to post a new thing to his stuff.
 
 Sends back a collection of things.
 
-```{
+```
     type: 'invite" || 'organic' || 'marketing'
-}```
+```
 
 <button class='success'>Ready</button>
-<button class='success'>Installed</button>
-<button class='success'>Tested</button>
+<button class='warning'>Installed</button>
+<button class='danger'>Tested</button>

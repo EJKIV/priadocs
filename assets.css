@@ -586,29 +586,29 @@ code {
 }
 
 /* POST */
-#content article.POST a h2 code {
+#content article.POST a h2 code, .success {
   color: #52ce0e;
 }
 
-#content article.POST a h2 code b {
+#content article.POST a h2 code b, .success {
   background: #52ce0e;
 }
 
 /* PUT */
-#content article.PUT a h2 code {
+#content article.PUT a h2 code, .warning {
   color: #e08f10;
 }
 
-#content article.PUT a h2 code b {
+#content article.PUT a h2 code b, .warning {
   background: #e08f10;
 }
 
 /* DELETE */
-#content article.DELETE a h2 code {
+#content article.DELETE a h2 code, .danger {
   color: #e02a10;
 }
 
-#content article.DELETE a h2 code b {
+#content article.DELETE a h2 code b, .danger {
   background: #e02a10;
 }
 
