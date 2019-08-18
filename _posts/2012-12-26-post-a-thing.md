@@ -1,5 +1,5 @@
 ---
-category: Stuff
+category: Page Views
 path: '/stuff'
 title: 'Post a thing'
 type: 'POST'

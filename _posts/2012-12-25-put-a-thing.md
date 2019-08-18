@@ -1,5 +1,5 @@
 ---
-category: Stuff
+category: Event Tracking
 path: '/stuff/:id'
 title: 'Update a thing'
 type: 'PUT'

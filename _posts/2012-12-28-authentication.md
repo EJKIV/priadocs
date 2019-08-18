@@ -1,7 +1,7 @@
 ---
 path: '/login'
 title: 'Authenticate'
-
+category: Screen Views
 layout: nil
 ---
 
