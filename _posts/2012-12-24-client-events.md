@@ -1,26 +1,24 @@
 ---
 category: Event Tracking
-title: 'Delete a thing'
+title: 'Client Side Events'
 
 layout: nil
 ---
 
 This method allows the user to post a new thing to his stuff.
 
-### Request
+### Account Created
 
-* **`:id`** is the id the thing to delete.
-* The headers must include a **valid authentication token**.
-* **The body is omitted**.
+* **`iOS & Android`** Key event for initial user engagement
 
-### Response
+## Properties
 
 Sends back a collection of things.
 
-```Status: 200 Deleted```
 ```{
-    code: 200,
-    message: 'Your thing (id: 736) was deleted'
+    type: 'invite" || 'organic' || 'marketing'
 }```
 
-For errors responses, see the [response status codes documentation](#response-status-codes).
+<button class='success'>Ready</button>
+<button class='success'>Installed</button>
+<button class='success'>Tested</button>
