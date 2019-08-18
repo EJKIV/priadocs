@@ -1,8 +1,6 @@
 ---
 category: Event Tracking
-path: '/stuff/:id'
 title: 'Delete a thing'
-type: 'DELETE'
 
 layout: nil
 ---

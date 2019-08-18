@@ -1,8 +1,6 @@
 ---
 category: Page Views
-path: '/page-views'
-title: 'Get stuff'
-type: 'GET'
+title: 'Page List'
 
 layout: nil
 ---

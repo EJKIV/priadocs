@@ -1,8 +1,6 @@
 ---
 category: Business Metrics
-path: '/product-use'
 title: 'Product Use'
-type: 'POST'
 
 layout: nil
 ---

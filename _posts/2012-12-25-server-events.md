@@ -1,8 +1,6 @@
 ---
 category: Event Tracking
-path: '/stuff/:id'
-title: 'Update a thing'
-type: 'PUT'
+title: 'Server Side Events'
 
 layout: nil
 ---
