@@ -7,11 +7,10 @@ layout: nil
 
 These events are collected in the web app and native applications.
 
-Account Created
+#Account Created
 ---------------
 
 ## Devices
-==========
 
 **`iOS`**  **`Android`** 
 
