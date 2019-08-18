@@ -23,7 +23,7 @@ These events are collected in the web app and native applications.
 
 ## Location
 
-    New Account 1/2
+> New Account 1/2
 
 ## Code
 
