@@ -5,19 +5,39 @@ title: 'Client Side Events'
 layout: nil
 ---
 
-This method allows the user to post a new thing to his stuff.
+These events are collected in the web app and native applications.
 
-### Account Created
+# Account Created
 
-* **`iOS & Android`** Key event for initial user engagement
+## Devices
+
+**`iOS`**  **`Android`** 
+
+## Purpose
+
+Key event for initial user engagement
 
 ## Properties
 
-Sends back a collection of things.
+```
+
+    type: 'invite" || 'organic' || 'marketing'
 
 ```
-    type: 'invite" || 'organic' || 'marketing'
+
+## Location
+
+## New Account 1/2
+
 ```
+
+analytics.track('Signed Up', {
+  type: 'invite' || 'organic'
+});
+
+```
+
+## Status
 
 <button class='success'>Ready</button>
 <button class='warning'>Installed</button>
