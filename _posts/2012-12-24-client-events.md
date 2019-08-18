@@ -28,13 +28,11 @@ Key event for initial user engagement
 
 New Account 1/2
 
-```
+## Code
 
-analytics.track('Signed Up', {
+```analytics.track('Signed Up', {
   type: 'invite' || 'organic'
-});
-
-```
+});```
 
 ## Status
 
