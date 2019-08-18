@@ -7,7 +7,8 @@ layout: nil
 
 These events are collected in the web app and native applications.
 
-# Account Created
+Account Created
+===============
 
 ## Devices
 
@@ -19,15 +20,13 @@ Key event for initial user engagement
 
 ## Properties
 
-```
-
-    type: 'invite" || 'organic' || 'marketing'
-
-```
+>
+>   type: 'invite" || 'organic' || 'marketing'
+>
 
 ## Location
 
-## New Account 1/2
+New Account 1/2
 
 ```
 
